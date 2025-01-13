@@ -1,0 +1,36 @@
+name: CI Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Klona koden från GitHub-repo
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # Installera .NET SDK
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: 7.0
+
+    # Installera beroenden
+    - name: Install dependencies
+      run: dotnet restore
+
+    # Bygg projektet
+    - name: Build project
+      run: dotnet build --no-restore
+
+    # Kör enhetstester
+    - name: Run tests
+      run: dotnet test
