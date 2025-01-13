@@ -1,0 +1,14 @@
+C:\Users\Admin\PersonnummerKontroll\bin\Debug\net9.0\PersonnummerKontroll.exe
+C:\Users\Admin\PersonnummerKontroll\bin\Debug\net9.0\PersonnummerKontroll.deps.json
+C:\Users\Admin\PersonnummerKontroll\bin\Debug\net9.0\PersonnummerKontroll.runtimeconfig.json
+C:\Users\Admin\PersonnummerKontroll\bin\Debug\net9.0\PersonnummerKontroll.dll
+C:\Users\Admin\PersonnummerKontroll\bin\Debug\net9.0\PersonnummerKontroll.pdb
+C:\Users\Admin\PersonnummerKontroll\obj\Debug\net9.0\PersonnummerKontroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\PersonnummerKontroll\obj\Debug\net9.0\PersonnummerKontroll.AssemblyInfoInputs.cache
+C:\Users\Admin\PersonnummerKontroll\obj\Debug\net9.0\PersonnummerKontroll.AssemblyInfo.cs
+C:\Users\Admin\PersonnummerKontroll\obj\Debug\net9.0\PersonnummerKontroll.csproj.CoreCompileInputs.cache
+C:\Users\Admin\PersonnummerKontroll\obj\Debug\net9.0\PersonnummerKontroll.dll
+C:\Users\Admin\PersonnummerKontroll\obj\Debug\net9.0\refint\PersonnummerKontroll.dll
+C:\Users\Admin\PersonnummerKontroll\obj\Debug\net9.0\PersonnummerKontroll.pdb
+C:\Users\Admin\PersonnummerKontroll\obj\Debug\net9.0\PersonnummerKontroll.genruntimeconfig.cache
+C:\Users\Admin\PersonnummerKontroll\obj\Debug\net9.0\ref\PersonnummerKontroll.dll
